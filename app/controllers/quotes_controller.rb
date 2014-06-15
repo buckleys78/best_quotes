@@ -8,4 +8,5 @@ class QuotesController < Rulers::Controller
   def exception
     raise "It's a bad one!"
   end
+
 end
